@@ -1,0 +1,4 @@
+int sub(int num1,int num2)
+{
+	diff = num1 - num2;
+}
