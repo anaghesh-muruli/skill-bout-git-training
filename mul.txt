@@ -1,4 +1,5 @@
 int mul(int num1,int num2)
 {
 	prod = num1 * num2;
+	return prod;
 }
